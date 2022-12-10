@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 60px;
+}
+
+body {
+    background-color: rgb(203, 255, 203);
+    text-align: left;
+    list-style-position: inside;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;
+}
+
+.row{
+    display: flex;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+p{
+    font-family: 'Diplomata SC', cursive;
+    font-size: 50px;
+}
